@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class CoinChange {
+public class CoinChange1 {
     
     public static int coinChange(int[] a, int v, int n, int[][] dp) {
         if(v == 0)
